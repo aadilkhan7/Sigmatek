@@ -1,0 +1,5 @@
+/Users/aadilkhan7/Projects/polygon/polygon/bin/Debug/polygon.exe
+/Users/aadilkhan7/Projects/polygon/polygon/bin/Debug/polygon.pdb
+/Users/aadilkhan7/Projects/polygon/polygon/obj/x86/Debug/polygon.csproj.CoreCompileInputs.cache
+/Users/aadilkhan7/Projects/polygon/polygon/obj/x86/Debug/polygon.exe
+/Users/aadilkhan7/Projects/polygon/polygon/obj/x86/Debug/polygon.pdb

@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{E8E7E9F0-F7B9-4B25-A861-F04FCA5D5E03}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="polygon/Program.cs">
+    <Files>
+      <File FileName="polygon/Program.cs" Line="9" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
